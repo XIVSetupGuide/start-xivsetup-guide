@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "NH Switch Guide"
+title: "FFXIV Install Guide"
 hero:
-  text: "NH Switch Guide"
-  tagline: "A collaboration from Nintendo Homebrew's Discord community, getting you from a stock Switch to Atmosphère."
+  text: "FFXIV Install Guide"
+  tagline: "WIP"
   image:
     src: "/img/home-page-feature.jpg"
 ---
